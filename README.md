@@ -1,1 +1,3 @@
-# client-rebrand-mockup
+# Case Study: eCommerce Rebrand
+
+In progress
